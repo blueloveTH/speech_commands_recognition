@@ -33,7 +33,7 @@ https://zhuanlan.zhihu.com/p/331833198
 
 ## 模型结构
 
-![](model_architecture.svg)
+![](model_architecture.jpg)
 
 ## 运行仓库代码
 
