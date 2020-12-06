@@ -1,5 +1,9 @@
 # Speech Commands Recognition
 
+## 内容介绍
+
+https://zhuanlan.zhihu.com/p/331833198
+
 ## 实验结果
 
 | Local CV Score | Test Score    |
