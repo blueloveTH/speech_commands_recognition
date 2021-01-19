@@ -41,7 +41,7 @@ https://zhuanlan.zhihu.com/p/331833198
 
 ```txt
 torch>=1.6.0
-keras4torch==1.0.9a2
+keras4torch==1.1.1
 scikit-learn==0.23.2
 
 librosa==0.8.0
